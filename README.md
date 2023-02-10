@@ -1,6 +1,6 @@
 ## YouTube-Data-Scrape-Marketing-and-Strategy-Analysis
 
-## YouTube Entertainment Industry Analysis and Insights 
+### YouTube Entertainment Industry Analysis and Insights 
 
 ### Introduction 
 
