@@ -10,9 +10,9 @@ In addition to its entertainment value, YouTube is also used as a marketing tool
 
 YouTube’s rising importance in the world of marketing made it a perfect platform for us to scrape data from and analyse. Data scraping refers to the process of collecting data from websites or other online sources in a systematic and automated manner. Companies may use data scraping to gather information about their competitors, analyse consumer behaviour, or identify trends in their industry. This information can be used to inform marketing strategies and target specific audiences more effectively.  
 
-In this study, we aim to understand the characteristics of YouTube content and users by analysing a large dataset of YouTube videos, views and subscriber count. To do this, we used the YouTube API to collect data from YouTube and performed a thorough analysis of the collected data. We analysed this data using quantitative and qualitative methods. Our findings suggest that YouTube is a significant source of information and entertainment for young adults and that the platform is dominated by a small number of highly popular channels and videos. 
+In this study, I aim to understand the characteristics of YouTube content and users by analysing a large dataset of YouTube videos, views and subscriber count. To do this, I used the YouTube API to collect data from YouTube and performed a thorough analysis of the collected data. I analysed this data using quantitative and qualitative methods. Our findings suggest that YouTube is a significant source of information and entertainment for young adults and that the platform is dominated by a small number of highly popular channels and videos. 
 
-The objective of this project is to scrape data for the top 6 YouTube entertainment channels (HBO, Netflix, Warner Bros, Marvel Entertainment, 20th Century Studios, and Disney), analyse the same to identify trends, patterns, and visualize the data to provide insights and support decision-making. We chose the entertainment industry since it continues to have notable success over the past few decades.  
+The objective of this project is to scrape data for the top 6 YouTube entertainment channels (HBO, Netflix, Warner Bros, Marvel Entertainment, 20th Century Studios, and Disney), analyse the same to identify trends, patterns, and visualize the data to provide insights and support decision-making. I chose the entertainment industry since it continues to have notable success over the past few decades.  
 
 ### Executive Summary 
 
@@ -20,15 +20,15 @@ This report presents the results of a Python project that aimed to scrape data f
 
 The analysis of the YouTube data showed that the top 6 YouTube entertainment channels have a significant presence on the platform, with a combined total of 25.59 billion views, 68.63 million subscribers, and 29,160 videos. 
 
-From the scraped data, we analysed the HBO, Marvel Entertainment, and Warner Bros Pictures channel. HBO has the least subscribers, the highest number of videos posted and the least views. This should be alarming for the marketing team at HBO because the data says that the audience is not responding well to the content posted by them. The content team for their YouTube channel need to rethink a few decisions.
+From the scraped data, I analysed the HBO, Marvel Entertainment, and Warner Bros Pictures channel. HBO has the least subscribers, the highest number of videos posted and the least views. This should be alarming for the marketing team at HBO because the data says that the audience is not responding well to the content posted by them. The content team for their YouTube channel need to rethink a few decisions.
 
-Warner Bros. Pictures has fewer subscribers but has significant total views, hence we found it necessary to analyze their Top 10 videos. Moreover, we did the same for Marvel Entertainment. This made it easy to compare the data between Marvel Entertainment, Warner Bros. Pictures and Netflix. 
+Warner Bros. Pictures has fewer subscribers but has significant total views, hence I found it necessary to analyze their Top 10 videos. Moreover, I did the same for Marvel Entertainment. This made it easy to compare the data between Marvel Entertainment, Warner Bros. Pictures and Netflix. 
 
 Since Netflix had significantly high views and has the most subscribers, I've decided to do an in-depth analysis of it. The analysis of the Netflix channel data showed that the channel had 6.31257 billion views, 25.3 million subscribers, and 6083 videos. The most popular videos on the channel were “Kaam 25: DIVINE|Sacred Games, Squid Game| Official Trailer”, and “Our Planet|From Desserts to Grasslands”, with 0.0629 billion views, 0.0513 billion views, and 0.0305 billion views respectively.
 
 The project demonstrated the value of web analytics for supporting business functions, such as marketing and content strategy. The analysis and visualization of the YouTube data provided insights into the popularity of the entertainment channels and the success of their videos, which can be used to inform business decisions and improve performance.  
 
-Based on this analysis, we can conclude that the top 6 YouTube entertainment channels are popular among YouTube users and that certain videos on the channels are particularly successful in terms of views and engagement. This information can be used by the marketing and content teams at the channels to identify trends and patterns. Moreover, they can use the same analysis to make effective changes in their database.
+Based on this analysis, I can conclude that the top 6 YouTube entertainment channels are popular among YouTube users and that certain videos on the channels are particularly successful in terms of views and engagement. This information can be used by the marketing and content teams at the channels to identify trends and patterns. Moreover, they can use the same analysis to make effective changes in their database.
 
 Overall, the analysis and visualization of YouTube data for the top 6 YouTube entertainment channels provide valuable insights that can be used by the marketing and content teams at the channels to improve the performance of the channels and to support business functions such as marketing and content strategy. 
 
@@ -38,7 +38,7 @@ The business goal is to analyse and visualize YouTube data from top YouTube ente
 
 Currently, the entertainment industry is using a variety of methods to track and analyse their performance on YouTube, such as manual analysis of the data, and using third-party tools and services. However, these methods have limitations and may not provide a comprehensive or accurate view of the channels' performance on YouTube. 
 
-Web analytics is needed for this project because it allows us to identify trends and patterns in the data, and to provide insights and support decision-making for the YouTube entertainment channels. By analysing the data, we can identify the factors that contribute to the success of the channels, such as the types of videos that are popular, the time of the day when the videos are posted, and the engagement of the subscribers.  
+Web analytics is needed for this project because it allows us to identify trends and patterns in the data, and to provide insights and support decision-making for the YouTube entertainment channels. By analysing the data, can identify the factors that contribute to the success of the channels, such as the types of videos that are popular, the time of the day when the videos are posted, and the engagement of the subscribers.  
 
 #### Web analytics can potentially achieve the following goals for the YouTube entertainment channels: 
 
